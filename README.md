@@ -1,4 +1,4 @@
-# rn-picker
+# react-native-wheel-pickers
 ### Fort of https://github.com/beefe/react-native-picker
 #### Add custom fontFamily for android base on **farnabaz** PR https://github.com/beefe/react-native-picker/pull/301
 
